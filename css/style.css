@@ -94,3 +94,12 @@
 .container_nav_a:hover{
      color: rgb(245, 210, 12);
 }
+
+/* -------------------------------------------------- */
+/* MAIN */
+
+.container{
+    border: 1px solid red;
+    width: 80%;
+    margin:  30px auto;
+}
