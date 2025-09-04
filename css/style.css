@@ -68,3 +68,29 @@
     background-color: rgb(141,141,141);
     transition: 0.5s;
 }
+
+/* ------------------------------------------ */
+/* NAV */
+.container_nav{
+
+    background-color: #0b0b0b;
+    color: #fcfafa;
+    padding: 10px 30px;
+}
+.container_nav_ul{
+    /* border: 1px solid red; */
+    display: flex;
+}
+.container_nav_ul li{
+    padding: 10px 10px;
+    list-style: none;
+    font-weight: bold;
+}
+
+.container_nav_a{
+    color: #fcfafa;
+    text-decoration: none   ;
+}
+.container_nav_a:hover{
+     color: rgb(245, 210, 12);
+}
